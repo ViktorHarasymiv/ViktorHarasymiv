@@ -1,5 +1,5 @@
 # 💫 About Me:
-Junior Front End Developer with deep knowledge and practical experience.<br><br>I have the necessary technical skills such as working with HTML5, CSS3 and JavaScript, developing on React and using GIT for effective team collaboration. In addition, I have experience in Node.js development.<br><br>My mission in the profession is my critical thinking, curiosity and positive attitude towards work which leads to the best results.
+Software Engineer | React/Next.js TypeScript, GraphQL/REST - with deep knowledge and practical experience.<br><br>I have the necessary technical skills such as working with HTML5, CSS3 and JavaScript, developing on React and using GIT for effective team collaboration. In addition, I have experience in Node.js development.<br><br>My mission in the profession is my critical thinking, curiosity and positive attitude towards work which leads to the best results.
 
 
 # 💻 Tech Stack:
