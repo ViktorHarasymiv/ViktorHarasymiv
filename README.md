@@ -11,7 +11,7 @@ Hey there, I'm Viktor!
   
 ### About Me :
 
-Passionate Software Developer | Web Design Enthusiast
+Software Engineer | React/Next.js TypeScript, GraphQL/REST
 
 ### Languages :
 
@@ -25,7 +25,7 @@ Passionate Software Developer | Web Design Enthusiast
 
   <tr>
     
-        🇬🇧 English - Pre-Intermediate
+        🇬🇧 English - Elementary
         
   </tr>
 </table>
@@ -53,10 +53,6 @@ Passionate Software Developer | Web Design Enthusiast
       <br>TypeScript
     </td>
     <td align="center" width="88">
-        <img src="./images/05-python.svg" alt="Python" width="44" height="44"/>
-      <br>Python
-    </td>
-    <td align="center" width="88">
         <img src="./images/06-react.svg" alt="React" width="44" height="44"/>
       <br>React.js
     </td>
@@ -68,10 +64,6 @@ Passionate Software Developer | Web Design Enthusiast
       <img src="./images/08-nodejs.svg" alt="Node.js" width="44" height="44"/>
       <br>Node.js
     </td>
-        <td align="center" width="88">
-       <img src="./images/09-sql.svg" alt="SQL" width="44" height="44"/>
-      <br>SQL
-      </td>
   </tr>
     <td align="center" width="88">
         <img src="./images/10-sass.svg" alt="Sass" width="44" height="44"/>
@@ -88,10 +80,6 @@ Passionate Software Developer | Web Design Enthusiast
     <td align="center" width="88">
         <img src="./images/13-redux.svg" alt="Redux" width="44" height="44"/>
       <br>Redux
-    </td>
-      <td align="center" width="88">
-        <img src="./images/14-postman.svg" alt="Postman" width="44" height="44"/>
-      <br>Postman
     </td>
       </td>
       <td align="center" width="88">
@@ -130,27 +118,3 @@ Passionate Software Developer | Web Design Enthusiast
   </td>
   </tr>
 </table>
-
-<div align=center> 
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&center=true&vCenter=true&width=1000&height=50&lines=Fun+Facts:+;Love+joking,+got+a+great+sense+of+humor.+;" alt="Fun Facts" /> 
-</div>
-  
-<br>
-
-<div align="center">
-<a href="https://u8views.com/github/ViktorSvertoka"><img src="https://u8views.com/api/v1/github/profiles/115661003/views/day-week-month-total-count.svg"></a>
-</div>
-
-<br>
-
-<div align="center">
-<a href="https://www.codewars.com/users/ViktorSvertoka"><img src="https://www.codewars.com/users/ViktorSvertoka/badges/small">
-</div>
-
-<br>
-
-<div align="center">
-<a href="https://www.buymeacoffee.com/viktor.svertoka" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 180px !important;" ></a>
-</div>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
