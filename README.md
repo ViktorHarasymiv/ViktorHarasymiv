@@ -81,6 +81,10 @@ Software Engineer | React/Next.js TypeScript, GraphQL/REST
         <img src="./images/12-tailwind.svg" alt="Tailwind" width="44" height="44"/>
       <br>Tailwind
     </td>
+    <td align="center"  width="88">
+        <img src="./images/19-mui.png" alt="MUI" width="44" height="44"/>
+      <br>MUI
+    </td>
     <td align="center" width="88">
         <img src="./images/13-redux.svg" alt="Redux" width="44" height="44"/>
       <br>Redux
