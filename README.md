@@ -64,6 +64,10 @@ Software Engineer | React/Next.js TypeScript, GraphQL/REST
       <img src="./images/08-nodejs.svg" alt="Node.js" width="44" height="44"/>
       <br>Node.js
     </td>
+    <td align="center" width="88">
+      <img src="./images/15-mongodb.svg" alt="MongoDB" width="44" height="44"/>
+      <br>MongoDB
+     </td>
   </tr>
     <td align="center" width="88">
         <img src="./images/10-sass.svg" alt="Sass" width="44" height="44"/>
@@ -81,11 +85,6 @@ Software Engineer | React/Next.js TypeScript, GraphQL/REST
         <img src="./images/13-redux.svg" alt="Redux" width="44" height="44"/>
       <br>Redux
     </td>
-      </td>
-      <td align="center" width="88">
-        <img src="./images/15-mongodb.svg" alt="MongoDB" width="44" height="44"/>
-      <br>MongoDB
-     </td>
      <td align="center" width="88">
         <img src="./images/16-git.svg" alt="Git" width="44" height="44"/>
       <br>Git
