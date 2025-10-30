@@ -11,7 +11,7 @@ Hey there, I'm Viktor!
   
 ### About Me :
 
-Software Engineer | React/Next.js TypeScript, GraphQL/REST
+Software Engineer | React/Next.js TypeScript, RESTfull
 
 ### Languages :
 
