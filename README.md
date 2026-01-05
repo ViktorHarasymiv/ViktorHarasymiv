@@ -25,7 +25,7 @@ Software Engineer | React/Next.js TypeScript, RESTfull
 
   <tr>
     
-        🇬🇧 English - Elementary
+        🇬🇧 English - Intermediate
         
   </tr>
 </table>
